@@ -88,12 +88,3 @@ make clean  # Remove object files
 make fclean # Remove all generated files
 make re     # Full rebuild
 ```
-
-## Project Goals
-
-✅ Exact symbol output matching system `nm`  
-✅ Handle all ELF architectures (x86_32, x64)  
-✅ Support object files and shared libraries  
-✅ Robust error handling  
-✅ Memory safety (no leaks, crashes)  
-✅ Bonus flags implementation  
