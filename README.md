@@ -10,7 +10,7 @@ A 42 School project that recreates the Unix `nm` command for reading symbol tabl
 
 ### Installation
 ```bash
-git clone <repository_url>
+git clone https://github.com/BeAzarym/42-FT_NM.git
 cd ft_nm
 make
 ```
